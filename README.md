@@ -19,9 +19,9 @@ To provide marketing stakeholders with **data-driven insights** for:
 
 ---
 
-## 📌 **Key Features**
+## **Key Features**
 
-### 👥 **Audience & Demographics Dashboard**
+### **Audience & Demographics Dashboard**
 
 Analyzes user behavior based on:
 
@@ -40,12 +40,12 @@ Includes KPIs:
 
 ---
 
-### 📺 **Platform & Content Analytics Dashboard**
+### **Platform & Content Analytics Dashboard**
 
 Compares performance from:
 
 - **Platforms such as Facebook/Instagram/Google/LinkedIn/Youtube**
-- **Content type as Carousel/Video/Image/Text**
+- **Content type such as Carousel/Video/Image/Text**
 
 KPIs:
 
